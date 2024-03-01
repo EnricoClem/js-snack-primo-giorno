@@ -8,6 +8,12 @@ console.log (number)
 
 // Dichiara una costante chiamata PI e assegnale il valore di 3.14. Stampa il valore della costante in console.
 
-const P1 = 3.14
+const PI = 3.14 //number
 
-console.log (P1)
+console.log (PI)
+
+
+
+// Prova ad assegnare alla costante chiamata PI il valore di 3.1416. Sai dire cosa succede?
+
+PI = 3.1416 // number
